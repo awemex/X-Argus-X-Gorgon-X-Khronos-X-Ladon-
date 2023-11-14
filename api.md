@@ -1,6 +1,12 @@
 ## 抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon
 
 ```text
+抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon
+```
+
+## /解密
+
+```text
 暂无描述
 ```
 
@@ -103,14 +109,3 @@
 }
 ```
 
-#### 预执行脚本
-
-```javascript
-暂无预执行脚本
-```
-
-#### 后执行脚本
-
-```javascript
-暂无后执行脚本
-```

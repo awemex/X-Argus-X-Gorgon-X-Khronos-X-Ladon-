@@ -1,7 +1,8 @@
 ## 抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon
 
 ```text
-抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon
+抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon 
+[联系测试](https://psslk.org/kiins)
 ```
 
 ## /解密

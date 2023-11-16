@@ -17,7 +17,7 @@
 
 #### 接口URL
 
-> http://xxxxxxx/api/ios/dy_argus_decode
+> https://24dy.com/api/ios/dy_argus_decode
 
 #### 请求方式
 
@@ -73,7 +73,7 @@
 
 #### 接口URL
 
-> http://xxxxxxx/api/ios/dy_argus
+> https://24dy.com/api/ios/dy_argus
 
 #### 请求方式
 

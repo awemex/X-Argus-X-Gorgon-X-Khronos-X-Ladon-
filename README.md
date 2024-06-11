@@ -3,7 +3,7 @@
 ```text
 抖音IOS X-Argus X-Gorgon X-Khronos X-Ladon 
 ```
-[联系测试](https://t.me/smmysql)
+[联系测试](https://t.me/Omsmssm)
 
 ## /解密
 
